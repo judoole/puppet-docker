@@ -1,3 +1,6 @@
 [submodule "modules/epel"]
 	path = modules/epel
 	url = git@github.com:stahnma/puppet-module-epel.git
+[submodule "modules/wget"]
+	path = modules/wget
+	url = git@github.com:maestrodev/puppet-wget.git
